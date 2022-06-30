@@ -4,6 +4,8 @@
 
 .logo1 {
   margin: 40px;
+  cursor: grab;
+  z-index: 2;
 }
 
 .event {

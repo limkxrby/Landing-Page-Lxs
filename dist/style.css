@@ -35,19 +35,19 @@
 .promo {
   position:absolute;
   top:25px; 
-  left:70%;
+  left:68%;
   width:160px;
   text-transform: uppercase;
   color:#062539;
   border-right: 2px solid #062539;
-  padding: 0px 15px;
+  padding: 0px 12px;  
   
 }
 
 .phone {
   position:absolute;
   top:25px; 
-  left:81%;
+  left:80%;
   width:170px;
   color:#062539;
 
